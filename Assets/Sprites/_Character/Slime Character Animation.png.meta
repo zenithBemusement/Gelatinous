@@ -1,0 +1,2341 @@
+fileFormatVersion: 2
+guid: e3a7854d3e40dca44b13879792d90ff2
+timeCreated: 1506696639
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Slime Character Animation_0
+    21300002: Slime Character Animation_1
+    21300004: Slime Character Animation_2
+    21300006: Slime Character Animation_3
+    21300008: Slime Character Animation_4
+    21300010: Slime Character Animation_5
+    21300012: Slime Character Animation_6
+    21300014: Slime Character Animation_7
+    21300016: Slime Character Animation_8
+    21300018: Slime Character Animation_9
+    21300020: Slime Character Animation_10
+    21300022: Slime Character Animation_11
+    21300024: Slime Character Animation_12
+    21300026: Slime Character Animation_13
+    21300028: Slime Character Animation_14
+    21300030: Slime Character Animation_15
+    21300032: Slime Character Animation_16
+    21300034: Slime Character Animation_17
+    21300036: Slime Character Animation_18
+    21300038: Slime Character Animation_19
+    21300040: Slime Character Animation_20
+    21300042: Slime Character Animation_21
+    21300044: Slime Character Animation_22
+    21300046: Slime Character Animation_23
+    21300048: Slime Character Animation_24
+    21300050: Slime Character Animation_25
+    21300052: Slime Character Animation_26
+    21300054: Slime Character Animation_27
+    21300056: Slime Character Animation_28
+    21300058: Slime Character Animation_29
+    21300060: Slime Character Animation_30
+    21300062: Slime Character Animation_31
+    21300064: Slime Character Animation_32
+    21300066: Slime Character Animation_33
+    21300068: Slime Character Animation_34
+    21300070: Slime Character Animation_35
+    21300072: Slime Character Animation_36
+    21300074: Slime Character Animation_37
+    21300076: Slime Character Animation_38
+    21300078: Slime Character Animation_39
+    21300080: Slime Character Animation_40
+    21300082: Slime Character Animation_41
+    21300084: Slime Character Animation_42
+    21300086: Slime Character Animation_43
+    21300088: Slime Character Animation_44
+    21300090: Slime Character Animation_45
+    21300092: Slime Character Animation_46
+    21300094: Slime Character Animation_47
+    21300096: Slime Character Animation_48
+    21300098: Slime Character Animation_49
+    21300100: Slime Character Animation_50
+    21300102: Slime Character Animation_51
+    21300104: Slime Character Animation_52
+    21300106: Slime Character Animation_53
+    21300108: Slime Character Animation_54
+    21300110: Slime Character Animation_55
+    21300112: Slime Character Animation_56
+    21300114: Slime Character Animation_57
+    21300116: Slime Character Animation_58
+    21300118: Slime Character Animation_59
+    21300120: Slime Character Animation_60
+    21300122: Slime Character Animation_61
+    21300124: Slime Character Animation_62
+    21300126: Slime Character Animation_63
+    21300128: Slime Character Animation_64
+    21300130: Slime Character Animation_65
+    21300132: Slime Character Animation_66
+    21300134: Slime Character Animation_67
+    21300136: Slime Character Animation_68
+    21300138: Slime Character Animation_69
+    21300140: Slime Character Animation_70
+    21300142: Slime Character Animation_71
+    21300144: Slime Character Animation_72
+    21300146: Slime Character Animation_73
+    21300148: Slime Character Animation_74
+    21300150: Slime Character Animation_75
+    21300152: Slime Character Animation_76
+    21300154: Slime Character Animation_77
+    21300156: Slime Character Animation_78
+    21300158: Slime Character Animation_79
+    21300160: Slime Character Animation_80
+    21300162: Slime Character Animation_81
+    21300164: Slime Character Animation_82
+    21300166: Slime Character Animation_83
+    21300168: Slime Character Animation_84
+    21300170: Slime Character Animation_85
+    21300172: Slime Character Animation_86
+    21300174: Slime Character Animation_87
+    21300176: Slime Character Animation_88
+    21300178: Slime Character Animation_89
+    21300180: Slime Character Animation_90
+    21300182: Slime Character Animation_91
+    21300184: Slime Character Animation_92
+    21300186: Slime Character Animation_93
+    21300188: Slime Character Animation_94
+    21300190: Slime Character Animation_95
+    21300192: Slime Character Animation_96
+    21300194: Slime Character Animation_97
+    21300196: Slime Character Animation_98
+    21300198: Slime Character Animation_99
+    21300200: Slime Character Animation_100
+    21300202: Slime Character Animation_101
+    21300204: Slime Character Animation_102
+    21300206: Slime Character Animation_103
+    21300208: Slime Character Animation_104
+    21300210: Slime Character Animation_105
+    21300212: Slime Character Animation_106
+    21300214: Slime Character Animation_107
+    21300216: Slime Character Animation_108
+    21300218: Slime Character Animation_109
+    21300220: Slime Character Animation_110
+    21300222: Slime Character Animation_111
+    21300224: Slime Character Animation_112
+    21300226: Slime Character Animation_113
+    21300228: Slime Character Animation_114
+    21300230: Slime Character Animation_115
+    21300232: Slime Character Animation_116
+    21300234: Slime Character Animation_117
+    21300236: Slime Character Animation_118
+    21300238: Slime Character Animation_119
+    21300240: Slime Character Animation_120
+    21300242: Slime Character Animation_121
+    21300244: Slime Character Animation_122
+    21300246: Slime Character Animation_123
+    21300248: Slime Character Animation_124
+    21300250: Slime Character Animation_125
+    21300252: Slime Character Animation_126
+    21300254: Slime Character Animation_127
+    21300256: Slime Character Animation_128
+    21300258: Slime Character Animation_129
+    21300260: Slime Character Animation_130
+    21300262: Slime Character Animation_131
+    21300264: Slime Character Animation_132
+    21300266: Slime Character Animation_133
+    21300268: Slime Character Animation_134
+    21300270: Slime Character Animation_135
+    21300272: Slime Character Animation_136
+    21300274: Slime Character Animation_137
+    21300276: Slime Character Animation_138
+    21300278: Slime Character Animation_139
+    21300280: Slime Character Animation_140
+    21300282: Slime Character Animation_141
+    21300284: Slime Character Animation_142
+    21300286: Slime Character Animation_143
+    21300288: Slime Character Animation_144
+    21300290: Slime Character Animation_145
+    21300292: Slime Character Animation_146
+    21300294: Slime Character Animation_147
+    21300296: Slime Character Animation_148
+    21300298: Slime Character Animation_149
+    21300300: Slime Character Animation_150
+    21300302: Slime Character Animation_151
+    21300304: Slime Character Animation_152
+    21300306: Slime Character Animation_153
+    21300308: Slime Character Animation_154
+    21300310: Slime Character Animation_155
+    21300312: Slime Character Animation_156
+    21300314: Slime Character Animation_157
+    21300316: Slime Character Animation_158
+    21300318: Slime Character Animation_159
+    21300320: Slime Character Animation_160
+    21300322: Slime Character Animation_161
+    21300324: Slime Character Animation_162
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slime Character Animation_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1380
+        width: 112
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1380
+        width: 120
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_2
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1380
+        width: 132
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_3
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1380
+        width: 120
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_4
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1380
+        width: 132
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_5
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1380
+        width: 120
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1124
+        width: 132
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_7
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1108
+        width: 120
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_8
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1112
+        width: 120
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_9
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1112
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_10
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1112
+        width: 120
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_11
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1104
+        width: 116
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_12
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1112
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_13
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1112
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_14
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_15
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1112
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_16
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_17
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1108
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1108
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_20
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1108
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_21
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1108
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_22
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_23
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1108
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_24
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_25
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1108
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_26
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1108
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1104
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_28
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1104
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_29
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1104
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1104
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_31
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1104
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_32
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1104
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_33
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1100
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_34
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1100
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_35
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1100
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_36
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1100
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_37
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1096
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_38
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1100
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_39
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1100
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_40
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1096
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_41
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1096
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_42
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1096
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_43
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1096
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_44
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1096
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_45
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1096
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_46
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1084
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_47
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1088
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_48
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1088
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_49
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1080
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_50
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1080
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_51
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1072
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_52
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 956
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_53
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 948
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_54
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 944
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_55
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 944
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_56
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 944
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_57
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 940
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_58
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 940
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_59
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 940
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_60
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 940
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_61
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 940
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_62
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 940
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_63
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 940
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_64
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 940
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_65
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 940
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_66
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 864
+        width: 112
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_67
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 936
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_68
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 936
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_69
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 936
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_70
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 936
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_71
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 936
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_72
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 932
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 848
+        width: 112
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 844
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_75
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 876
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_76
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 848
+        width: 112
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_77
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 864
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_78
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 864
+        width: 112
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_79
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 864
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_80
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 864
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_81
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 856
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_82
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 852
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_83
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 852
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_84
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 852
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_85
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 844
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_86
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 848
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_87
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 848
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_88
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 844
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_89
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 844
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_90
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 840
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_91
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 840
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_92
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 836
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 836
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_94
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 836
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_95
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 836
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_96
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 836
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_97
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 836
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_98
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 832
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_99
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 832
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_100
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 832
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_101
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 828
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_102
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 824
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_103
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 824
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_104
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 688
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_105
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 688
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_106
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 688
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_107
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 688
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_108
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 688
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_109
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 688
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_110
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 688
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_111
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 684
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_112
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 608
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_113
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 684
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_114
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 680
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_115
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 684
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_116
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 684
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_117
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 684
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_118
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 680
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_119
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 680
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_120
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 680
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_121
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 680
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_122
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 680
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_123
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 680
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_124
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 608
+        width: 112
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_125
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 680
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_126
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 680
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_127
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 608
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_128
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 608
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_129
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 672
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_130
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 672
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_131
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 672
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_132
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 672
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_133
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 612
+        width: 120
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_134
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 608
+        width: 112
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_135
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 660
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_136
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 636
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_137
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 620
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_138
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 612
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_139
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 612
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_140
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 372
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_141
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 356
+        width: 116
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_142
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 372
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_143
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 356
+        width: 112
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_144
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 356
+        width: 112
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_145
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 356
+        width: 112
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_146
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 356
+        width: 112
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_147
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 356
+        width: 112
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_148
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 368
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 368
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_150
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 364
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_151
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 364
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_152
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 364
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_153
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 356
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_154
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 356
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_155
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 356
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_156
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 356
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_157
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 100
+        width: 112
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_158
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 100
+        width: 112
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_159
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 100
+        width: 112
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_160
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 100
+        width: 112
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_161
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 100
+        width: 112
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime Character Animation_162
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 100
+        width: 112
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
